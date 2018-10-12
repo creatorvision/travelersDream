@@ -1,0 +1,9 @@
+# Installation Guide
+
+> sudo easy_install pip
+
+> sudo pip install scrapy
+
+# If you are working in the Mac OS X so use the way mentioned below ( refer - https://github.com/pypa/pip/issues/3165 )
+
+> sudo pip install scrapy --upgrade --ignore-installed six
